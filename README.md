@@ -64,7 +64,9 @@
 
 ## 📊 GitHub Stats
 
-![Sudhir's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sudhirshukla076&show_icons=true&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudhirshukla076&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudhirshukla076&theme=github_dark)
 
 ---
 
